@@ -1,0 +1,24 @@
+/*
+============== PALETA DE CORES =================
+FONTE: FLAMA
+
+PALETA DE CORES:
+
+VERDE:   #DEFAE7 #B5FFCB #89C79C #48945F #1C6030
+                                           base
+
+AMARELO: #D6A426 #A3873E #706341 #3D3930 #33302A
+          base
+          
+BRANCO: #fefefe 
+
+================================================
+*/
+
+@font-face{
+    font-family: "Flama";
+    src:url('fonts/Flama Regular.otf');
+    font-weight: normal;
+    font-size: normal;
+
+}
