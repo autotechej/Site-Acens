@@ -16,9 +16,16 @@ BRANCO: #fefefe
 */
 
 @font-face{
-    font-family: "Flama";
+    font-family: "Flama", sans-serif;
     src:url('fonts/Flama Regular.otf');
     font-weight: normal;
     font-size: normal;
 
+}
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: "Flama", sans-serif;
 }
