@@ -27,5 +27,42 @@ BRANCO: #fefefe
     margin:0;
     padding:0;
     box-sizing:border-box;
-    font-family: "Flama", sans-serif;
+    font-family: "Flama", sans-serif !important;
+}
+
+body{
+    background-image: url('../../img/background.png');
+}
+
+.bg-yellow{
+    background-color: #f4dda8;
+}
+
+.bg-green{
+    background-color: #89C79C;
+}
+
+.bg-white{
+    background-color: white;
+}
+
+.text-green{
+    color: #89C79C;
+}
+
+.text-yellow{
+    color: #f4dda8;
+}
+
+.borda{
+    border-radius: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #89C79C;
+}
+
+.btn-green{
+    background-color: #89C79C;
 }
